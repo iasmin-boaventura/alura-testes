@@ -19,5 +19,4 @@ public class ValidacaoPetDisponivel implements ValidacaoSolicitacaoAdocao {
             throw new ValidacaoException("Pet já foi adotado!");
         }
     }
-
 }
